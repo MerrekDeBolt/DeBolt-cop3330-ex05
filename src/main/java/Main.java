@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Fall 2021 Exercise 1 Solution
+ *  Copyright 2021 Merrek DeBolt
+ */
+
 import java.util.Scanner;
 
 public class Main {
